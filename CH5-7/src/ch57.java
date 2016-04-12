@@ -8,6 +8,7 @@ public class ch57 {
 * 程序要读入两个多项式，然后输出这两个多项式的和，也就是把对应的幂上的系数相加然后输出。
 程序要处理的幂最大为100。[目前需要输入-1结束，待解决]
 */
+//
 //		Scanner in= new Scanner (System.in);
 //		int[] factor = new int[101];
 //		for(int i=0;i<101;i++){
